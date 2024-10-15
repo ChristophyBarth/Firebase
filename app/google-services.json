@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "402178045163",
+    "project_id": "fir-test-10f1d",
+    "storage_bucket": "fir-test-10f1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402178045163:android:378a86576b5a0a88b57aae",
+        "android_client_info": {
+          "package_name": "capps.learning.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCahIgVqo60A7c7JyHIeLxkAdzEV6aJ3CM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
